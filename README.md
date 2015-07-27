@@ -9,7 +9,7 @@
   </li>
   <li>
     Mělo by se zobrazit hlášení o úspěšné instalaci. Nyní je potřeba modul povolit.<br><br>
-    <a href="/images/virtuemart2/plugin_enable.png"><img width=500 height=250 src="/images/virtuemart2/plugin_enable.png"></a>
+    <a href="https://cloud.githubusercontent.com/assets/13521096/8906264/7c441376-346d-11e5-963f-b20ccf14a328.png"><img width=500 height=250 src="https://cloud.githubusercontent.com/assets/13521096/8906264/7c441376-346d-11e5-963f-b20ccf14a328.png"></a>
     <br><br>
   </li>
   <li>
