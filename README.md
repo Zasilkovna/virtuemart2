@@ -18,7 +18,7 @@
   </li>  
   <li>
     Po nastavení hesla API je potřeba přidat dopravní metody. V <b>Components – VirtueMart – Shop – Shipment Methods</b> přidejte novou dopravní metodu a vyberte <b>Shipment method: Zasilkovna VM2</b><br><br>
-    <a href="/images/virtuemart2/set_up_shipment_method.png"><img width=600 height=369 src="/images/virtuemart2/set_up_shipment_method.png"></a><br><br>
+    <a href="https://cloud.githubusercontent.com/assets/13521096/8906296/bc135e94-346d-11e5-9d19-881a8e76f535.png"><img width=600 height=369 src="https://cloud.githubusercontent.com/assets/13521096/8906296/bc135e94-346d-11e5-9d19-881a8e76f535.png"></a><br><br>
   </li>
   <li>
     U dopravní metody je ještě potřeba <b>nastavit cenu, daň a cílovou zemi</b> (pokud chcete povolit všechny země, žádnou nevybírejte). Nastavení provedete rozkliknutím dopravní metody v panelu <b>Configuration</b><br><br>
