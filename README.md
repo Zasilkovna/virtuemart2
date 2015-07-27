@@ -22,7 +22,7 @@
   </li>
   <li>
     U dopravní metody je ještě potřeba <b>nastavit cenu, daň a cílovou zemi</b> (pokud chcete povolit všechny země, žádnou nevybírejte). Nastavení provedete rozkliknutím dopravní metody v panelu <b>Configuration</b><br><br>
-    <a href="/images/virtuemart2/configure_shipment_method.png"><img width=600 height=200 src="/images/virtuemart2/configure_shipment_method.png"></a><br><br>
+    <a href="https://cloud.githubusercontent.com/assets/13521096/8906309/dadf6106-346d-11e5-945f-5a321f15d5b0.png"><img width=600 height=200 src="https://cloud.githubusercontent.com/assets/13521096/8906309/dadf6106-346d-11e5-945f-5a321f15d5b0.png"></a><br><br>
   </li>
   <li>
     Nyní by měla být zásilkovna nabízena jako další možnost dopravy.   <br><br>
