@@ -26,14 +26,14 @@
   </li>
   <li>
     Nyní by měla být zásilkovna nabízena jako další možnost dopravy.   <br><br>
-    <a href="/images/virtuemart2/modul_on_frontend.png"><img width=550 height=200 src="/images/virtuemart2/modul_on_frontend.png"></a><br><br>
+    <a href="https://cloud.githubusercontent.com/assets/13521096/8906327/05f74386-346e-11e5-8493-f58954a92e25.png"><img width=550 height=200 src="https://cloud.githubusercontent.com/assets/13521096/8906327/05f74386-346e-11e5-8493-f58954a92e25.png"></a><br><br>
   </li>
   <li>
     Pokud si přejete <b>omezit některé kombinace doprava-platba</b>, postupujte dle návodu v nastavení modulu (Components - VirtueMart - Configuration - ZASILKOVNA) panel Config dole. Poté můžete v tabulce zaškrtat povolené kombinace.<br><br>
   </li>  
   <li>
     Dále až budete mít nějaké objednávky se způsobem dopravy Zásilkovna, můžete je automaticky podat do systému Zásilkovny, vytisknout štítky nebo exportovat do CSV. To vše se provede v nastavení modulu (Components - VirtueMart - Configuration - ZASILKOVNA) panelu <b>EXPORT</b><br><br>
-    <a href="/images/virtuemart2/export.png"><img width=550 height=200 src="/images/virtuemart2/export.png"></a><br><br>
+    <a href="https://cloud.githubusercontent.com/assets/13521096/8906341/24546e6c-346e-11e5-8cce-9cd4452bd87d.png"><img width=550 height=200 src="https://cloud.githubusercontent.com/assets/13521096/8906341/24546e6c-346e-11e5-8cce-9cd4452bd87d.png"></a><br><br>
   </li>
 </ol>
 <h2>Informace o modulu</h2>
