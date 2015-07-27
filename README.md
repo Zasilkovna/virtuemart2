@@ -53,7 +53,7 @@
   <li>Instalace typu dopravního modulu Zásilkovna
     <ul>
       <li>možnost rozlišení ceny dle cílové země</li>
-      <li>volba typu zobrazení stejná jako v <a href="/pristup-k-pobockam/pruvodce">průvodci vložením poboček (JS API)</a></li>
+      <li>volba typu zobrazení stejná jako v <a href="http://www.zasilkovna.cz/pristup-k-pobockam/pruvodce">průvodci vložením poboček (JS API)</a></li>
       <li>vybraná pobočka se zobrazuje v detailu objednávky v uživatelské (front-office) i administrátorské (back-office) sekci</li>
     </ul>
   </li>
