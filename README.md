@@ -5,7 +5,7 @@
   <li>Modul vyžaduje minimálně verzi <b>Joomla 2.5.8 Stable</b> a <b>VirtueMart 2.0.10</b>. Máte-li starší, napište nám prosím používanou verzi a adresu e-shopu na <a href="mailto:technicka.podpora@zasilkovna.cz">technicka.podpora@zasilkovna.cz</a>.</li>
   <li>
     Přihlašte se do administrace Joomly, otevřete nabídku Extensions a Install/Uninstall<br><br>
-    <a href="/images/virtuemart/install.jpg"><img src="/images/virtuemart/install.jpg"></a><br><br>
+    <a href="https://cloud.githubusercontent.com/assets/13521096/8906208/f16ecc82-346c-11e5-9865-e629047a083c.jpg"><img src="/images/virtuemart/install.jpg"></a><br><br>
   </li>
   <li>
     Mělo by se zobrazit hlášení o úspěšné instalaci. Nyní je potřeba modul povolit.<br><br>
