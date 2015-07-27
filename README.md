@@ -1,4 +1,4 @@
-<h1>Modul pro VirtueMart</h1>
+<h1>Modul pro VirtueMart 2</h1>
 <h2>Instalace</h2>
 <ol style="color: black; ">
   <li><a href="http://www.zasilkovna.cz/soubory/virtuemart2-module.zip">Stáhnout soubor modulu »</a></li>
@@ -67,9 +67,3 @@
   <li>Možnost přímého podání do systému Zásilkovna a tisku štítků</li>  
   <li>Možnost zakázání některých kombinací doprava-platba</li>  
 </ul>
-<div class='shbox'><h3>Kam dál?</h3><ul>
-    <li><a href="/obchodni-podminky">Obchodní podmínky</a>.</li>
-    <li><a href="/vydejni-mista-pro-eshopy">Nezávislá výdejní místa</a>.</li>
-    <li><a href="/podani-zasilek-na-slovensku">Podání na pošty dalších států</a>.</li>
-    <li>Chcete využít služeb Zásilkovny? <strong><a href="/registrace-eshopu">Stačí se zaregistrovat</a></strong>.</li>
-</ul></div></div>      </div>
