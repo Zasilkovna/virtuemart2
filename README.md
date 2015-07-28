@@ -1,7 +1,7 @@
 <h1>Modul pro VirtueMart 2</h1>
 <h2>Instalace</h2>
 <ol style="color: black; ">
-  <li><a href="http://www.zasilkovna.cz/soubory/virtuemart2-module.zip">Stáhnout soubor modulu »</a></li>
+  <li><a href="https://github.com/Zasilkovna/virtuemart2/raw/master/releases/zasilkovna-virtuemart2-latest.zip">Stáhnout soubor modulu »</a></li>
   <li>Modul vyžaduje minimálně verzi <b>Joomla 2.5.8 Stable</b> a <b>VirtueMart 2.0.10</b>. Máte-li starší, napište nám prosím používanou verzi a adresu e-shopu na <a href="mailto:technicka.podpora@zasilkovna.cz">technicka.podpora@zasilkovna.cz</a>.</li>
   <li>
     Přihlašte se do administrace Joomly, otevřete nabídku Extensions a Install/Uninstall<br><br>
