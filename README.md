@@ -13,7 +13,7 @@
     <br><br>
   </li>
   <li>
-    Nastavení hesla API, názvu obchodu, dobírky a další se provede na stránce <b>Components – VirtueMart – Configuration – ZASILKOVNA</b> v panelu Config. Vaše heslo API je <code>41494564a70d6de6984ad5db9b215cc1</code>  <br><br>
+    Nastavení hesla API, názvu obchodu, dobírky a další se provede na stránce <b>Components – VirtueMart – Configuration – ZASILKOVNA</b> v panelu Config.<br><br>
     <a href="https://cloud.githubusercontent.com/assets/13521096/8906280/a15cacc2-346d-11e5-9ff4-8fcbbe31725a.png"><img width=600 height=210 src="https://cloud.githubusercontent.com/assets/13521096/8906280/a15cacc2-346d-11e5-9ff4-8fcbbe31725a.png"></a><br><br>
   </li>  
   <li>
